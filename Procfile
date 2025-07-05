@@ -1,1 +1,1 @@
-node bot_whatsapp_indodax.js
+start: node bot_whatsapp_indodax.js
